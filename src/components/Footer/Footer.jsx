@@ -50,7 +50,7 @@ const Footer = () => {
                 Crafted Coffee, Cozy Vibes, Unforgettable Moments Your Perfect Espresso Escape
               </p>
               <a
-              href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
+              href="https://www.youtube.com/watch?v=6skcgBvorDk&ab_channel=InterestingEngineering"
               target="_blank"
               className="inline-block bg-[#3d2517] py-2 px-4 mt-5 text-sm rounded-full"
             >
